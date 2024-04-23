@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+.heading{
+    background-color: burlywood;
+}
+span{
+    font-weight: bold;
+}
+.reviewquest{
+    text-shadow: 2px 2px 10px red;
+}
+#sneakpeek{
+    font-size: medium;
+    font-weight: bold;
+}
